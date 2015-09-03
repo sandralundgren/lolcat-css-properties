@@ -1,0 +1,25 @@
+{
+  "name": "lolcat-css-properties",
+  "version": "1.0.0",
+  "description": "Lolcat CSS Properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandralundgren/lolcat-css-properties.git"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "lolcat",
+    "lolspeak"
+  ],
+  "author": "Sandra Lundgren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandralundgren/lolcat-css-properties/issues"
+  },
+  "homepage": "https://github.com/sandralundgren/lolcat-css-properties#readme"
+}
